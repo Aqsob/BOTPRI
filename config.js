@@ -38,7 +38,7 @@ global.titulowm2 = `KONBRUT Bot`
 global.igfg = 'KONBRUT Bot';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
-global.imagen1 = fs.readFileSync('./src/assets/images/menu/languages/es/menu.png');
+global.imagen1 = fs.readFileSync('./src/assets/images/menu/languages/es/Screenshot_2025-10-19-17-52-58-587_com.dts.freefireth.jpg');
 global.imagen2 = fs.readFileSync('./src/assets/images/menu/languages/pt/menu.png');
 global.imagen3 = fs.readFileSync('./src/assets/images/menu/languages/fr/menu.png')
 global.imagen4 = fs.readFileSync('./src/assets/images/menu/languages/en/menu.png')
