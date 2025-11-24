@@ -4,8 +4,8 @@ import {fileURLToPath} from 'url';
 import fs from 'fs'; 
 import moment from 'moment-timezone';
 
-global.botnumber = ""
-global.confirmCode = ""
+global.botnumber = "6282191404693"
+global.confirmCode = "12345678"
 global.authFile = `MysticSession`;
 
 // Cambiar a true si el Bot responde a sus comandos con otros comandos.
@@ -16,26 +16,26 @@ global.isBaileysFail = false;
 global.defaultLenguaje = 'es';
 
 global.owner = [
-  ['5219996125657', '👑 Propietario 👑', true],
-  ['5492916450307'],
-  ['5493794297363'],
-  ['59169082575'],
-  ['595972184435'],
-  ['5215533827255']
+  ['6285656715298', '👑 33333 👑', true],
+  ['6285656715298'],
+  ['6285656715298'],
+  ['6285656715298'],
+  ['6285656715298'],
+  ['6285656715298']
 ];
 
-global.suittag = ['5219993404349'];
+global.suittag = ['6285656715298'];
 global.prems = [];
 
 // Base Rest Api
 global.BASE_API_DELIRIUS = "https://delirius-apiofc.vercel.app";
 
 global.packname = 'Sticker';
-global.author = 'BrunoSobrino';
-global.wm = 'The Mystic - Bot';
-global.titulowm = 'Mystic Bot';
-global.titulowm2 = `Mystic Bot`
-global.igfg = 'The Mystic';
+global.author = 'AWSOME';
+global.wm = 'KONBRUT Bot - Bot';
+global.titulowm = 'KONBRUT Bot';
+global.titulowm2 = `KONBRUT Bot`
+global.igfg = 'KONBRUT Bot';
 global.wait = '*_[ ⏳ ] Cargando..._*';
 
 global.imagen1 = fs.readFileSync('./src/assets/images/menu/languages/es/menu.png');
@@ -55,16 +55,16 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nThe Mystic - Bot`;
-global.gt = 'The Mystic - Bot';
-global.mysticbot = 'The Mystic - Bot';
-global.channel = 'https://whatsapp.com/channel/0029Vaein6eInlqIsCXpDs3y';
-global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
-global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
-global.waitt = '*_[ ⏳ ] Cargando..._*';
-global.waittt = '*_[ ⏳ ] Cargando..._*';
-global.waitttt = '*_[ ⏳ ] Cargando..._*';
-global.nomorown = '5219993404349';
+global.wm2 = `${dia} ${fecha}\nKONBRUT Bot - Bot`;
+global.gt = 'KONBRUT - Bot';
+global.mysticbot = 'KONBRUT - Bot';
+global.channel = 'https://whatsapp.com/channel/0029VaAkC1YKrWR4FO1Gsn2C';
+global.md = 'https://bijiandapecah.com';
+global.mysticbot = 'https://mekimemek.com';
+global.waitt = '*_[ ⏳ ] Loanjing..._*';
+global.waittt = '*_[ ⏳ ] Loanjing..._*';
+global.waitttt = '*_[ ⏳ ] Loanjing..._*';
+global.nomorown = '6285656715298';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
