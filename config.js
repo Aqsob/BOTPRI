@@ -41,7 +41,7 @@ global.wait = '*_[ ⏳ ] Cargando..._*';
 global.imagen1 = fs.readFileSync('./src/assets/images/menu/languages/es/Screenshot_2025-10-19-17-52-58-587_com.dts.freefireth.jpg');
 global.imagen2 = fs.readFileSync('./src/assets/images/menu/languages/pt/Screenshot_2025-10-19-17-53-58-059_com.dts.freefireth.jpg');
 global.imagen3 = fs.readFileSync('./src/assets/images/menu/languages/fr/Screenshot_2025-10-19-17-52-41-716_com.dts.freefireth.jpg')
-global.imagen4 = fs.readFileSync('./src/assets/images/menu/languages/en/menu.png')
+global.imagen4 = fs.readFileSync('./src/assets/images/menu/languages/en/Screenshot_2025-10-19-17-52-58-587_com.dts.freefireth.jpg')
 global.imagen5 = fs.readFileSync('./src/assets/images/menu/languages/ru/menu.png')
 
 global.mods = [];
