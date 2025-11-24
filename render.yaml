@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: BOTPRI
+    name: themystic-bot-md
     env: docker
     region: Oregon
     plan: free
